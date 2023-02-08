@@ -236,8 +236,8 @@
     position: absolute;
     top: 0;
     right: -210px;
-    z-index: 1;
-    background-image: url(./second-project/images/kaufman-triangle.svg);
+ 
+    background-image: url(../images/kaufman-triangle.svg);
  
   }
   
@@ -262,6 +262,7 @@
     color: white;
     margin-left: auto;
     margin-right: auto;
+    z-index: 1;
   }
   
   .table__cell_theme_dark {
