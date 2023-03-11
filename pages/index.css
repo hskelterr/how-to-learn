@@ -17,3 +17,7 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/footer/footer.css);
 @import url(../vendor/normalize.css);
+@import url(./__image/cards__image.css);
+@import url(./__link/feynman__link.css);
+@import url(./__social-icon/footer__social-icon.css);
+@import url(../rotation/rotation.css);
