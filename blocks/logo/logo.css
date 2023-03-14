@@ -1,6 +1,9 @@
 
 
 .logo {
-    min-height: 32px;
-    min-width: 183px;
+    width: 228px; 
+    height: 32px; 
+    display: flex; 
+    flex-basis: content; 
+
 }
